@@ -1,0 +1,29 @@
+.web-browser {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  color: #cb8805;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: bold;
+}
+.unorderedList {
+  padding-left: 0px;
+  list-style-type: none;
+  padding: 15px;
+}

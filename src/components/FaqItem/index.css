@@ -1,0 +1,31 @@
+.list-container {
+  padding: 0px 25px;
+  border: 2px solid #d7dae6;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+.question-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.question {
+  color: #52606d;
+  font-family: 'Lato';
+  font-size: 24px;
+}
+.seeAnswerBtn {
+  padding-top: 5px;
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  outline: none;
+}
+.hr-line {
+  background-color: #e4e7eb;
+}
+.ans-text {
+  color: #9aa5b1;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
